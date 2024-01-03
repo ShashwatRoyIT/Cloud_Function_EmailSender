@@ -48,9 +48,10 @@ This solution demonstrates how to trigger an email by clicking a button on a sim
 - Click the button to trigger the Cloud Function, which sends an email through SendGrid.
 
 ## ScreenShorts
-![s](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/a6e4c421-0d03-453d-a2ea-6fc3217be88f)
+![s](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/5f465f47-2eac-4b27-aff3-eb9fc8adabc3)
 
-![ss](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/be3c7e4f-f6f4-44b0-90ad-8e3d208c05e9)
+![ss](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/c1c5d04c-6a2f-4d27-97f8-8af2ac7e0a4b)
 
-![sss](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/e3535adf-762e-4069-94b6-0132e37d1728)
+
+![sss](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/926369a5-64ad-4410-86ae-43b34eea7bc9)
 
