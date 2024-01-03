@@ -55,3 +55,9 @@ This solution demonstrates how to trigger an email by clicking a button on a sim
 
 ![sss](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/926369a5-64ad-4410-86ae-43b34eea7bc9)
 
+
+![ssss](https://github.com/ShashwatRoyIT/Cloud_Function_EmailSender/assets/63514592/611d9770-fa49-4c91-955b-1bd88da7d1cb)
+
+
+
+
